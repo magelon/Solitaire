@@ -2964,7 +2964,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: fa045cd8f96ddbf4ca0443284f64e6bd, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 0778fdd941345429687987c8fbc0dbc5, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -3013,7 +3013,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 5, y: 7.26}
+    oldSize: {x: 4.27, y: 6}
     newSize: {x: 4.07, y: 6.8}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -3089,5 +3089,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4464249741575413217, guid: b383ff450473ace4cbbd85429fa03541,
+        type: 3}
+      propertyPath: cardBack
+      value: 
+      objectReference: {fileID: 21300000, guid: 0778fdd941345429687987c8fbc0dbc5,
+        type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b383ff450473ace4cbbd85429fa03541, type: 3}
